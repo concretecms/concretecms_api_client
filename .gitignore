@@ -1,0 +1,10 @@
+.DS_Store
+
+# Ignore composer stuff
+/vendor/
+composer.lock
+
+# Ignore developer stuff
+.idea
+node_modules
+.env
