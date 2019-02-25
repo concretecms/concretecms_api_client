@@ -1,7 +1,8 @@
 <?php
 namespace Concrete\Api\Client\OAuth2\Helper\ProviderBridge;
 
-use Concrete\Api\Client\OAuth2\Configuration\ConfigurationInterface;
+use Concrete\Nightcap\OAuth2\Configuration\ConfigurationInterface;
+use Concrete\Nightcap\OAuth2\Helper\ProviderBridge\AbstractProviderBridge;
 
 class Concrete5 extends AbstractProviderBridge
 {
