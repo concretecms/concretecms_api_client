@@ -1,5 +1,5 @@
 {
-  "name": "concrete5/concrete5-api-client",
+  "name": "concretecms/concretecms-api-client",
   "description": "A PHP client for the concrete5 REST API.",
   "minimum-stability": "dev",
   "authors": [
